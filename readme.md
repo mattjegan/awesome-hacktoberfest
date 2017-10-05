@@ -33,6 +33,9 @@ Below you will find projects that have created/labelled various issues for Hackt
 - [howlong](https://github.com/mattjegan/HowLong)
 - [wtfuzz](https://github.com/mattjegan/wtfuzz)
 
+## Misc Resources
+
+- [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 
 ## Contribute
 
