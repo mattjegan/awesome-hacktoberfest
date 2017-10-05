@@ -1,28 +1,30 @@
 # Awesome Hacktoberfest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Hacktoberfest-related projects
+> Hacktoberfest-related resources
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Projects made for Hacktoberfest](#projects-made-for-hacktoberfest)
+- [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
 
 
-## Section
+## Projects made for Hacktoberfest
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Javascript
+
+- [hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
 
 
-## Another Section
+## Projects friendly to Hacktoberfest 1st time contributors
 
-### Subsection
+### Python
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [django-gamification](https://github.com/mattjegan/django-gamification)
+- [howlong](https://github.com/mattjegan/HowLong)
+- [wtfuzz](https://github.com/mattjegan/wtfuzz)
 
 
 ## Contribute
