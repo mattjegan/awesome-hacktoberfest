@@ -17,9 +17,13 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
 
+- [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
+
 ### HTML
 
 - [league_app](https://github.com/connorphee/league_app)
+
+- [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
 
 ### CSS
 
