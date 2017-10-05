@@ -22,6 +22,11 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 Below you will find projects that have created/labelled various issues for Hacktoberfest and try to be very welcoming for 1st time contributors.
 
+### GitHub labels
+
+- [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
+- [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
+
 ### Python
 
 - [django-gamification](https://github.com/mattjegan/django-gamification)
