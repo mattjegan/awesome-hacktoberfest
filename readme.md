@@ -11,7 +11,7 @@
 
 ## Projects made for Hacktoberfest
 
-About this section. Optional. Keep this short and focus on the list.
+Below you will find projects that have been created specifically for Hacktoberfest.
 
 ### Javascript
 
@@ -19,6 +19,8 @@ About this section. Optional. Keep this short and focus on the list.
 
 
 ## Projects friendly to Hacktoberfest 1st time contributors
+
+Below you will find projects that have created/labelled various issues for Hacktoberfest and try to be very welcoming for 1st time contributors.
 
 ### Python
 
