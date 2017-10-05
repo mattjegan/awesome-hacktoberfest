@@ -17,6 +17,19 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
 
+### HTML
+
+- [league_app](https://github.com/connorphee/league_app)
+
+### CSS
+
+- [shopee_design](https://github.com/bluetch/shopee_design)
+
+- [crystal-ann](https://github.com/crystal-community/crystal-ann)
+
+### JAVA
+
+- [Java](https://github.com/TheAlgorithms/Java)
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
