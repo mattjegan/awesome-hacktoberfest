@@ -35,6 +35,10 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [Java](https://github.com/TheAlgorithms/Java)
 
+### PHP
+
+- [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
+
 ## Projects friendly to Hacktoberfest 1st time contributors
 
 Below you will find projects that have created/labelled various issues for Hacktoberfest and try to be very welcoming for 1st time contributors.
