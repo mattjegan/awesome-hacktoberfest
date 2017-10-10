@@ -35,6 +35,10 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [Java](https://github.com/TheAlgorithms/Java)
 
+### PYTHON
+
+- [PyBites](https://pybit.es/codechallenge38.html)
+
 ## Projects friendly to Hacktoberfest 1st time contributors
 
 Below you will find projects that have created/labelled various issues for Hacktoberfest and try to be very welcoming for 1st time contributors.
