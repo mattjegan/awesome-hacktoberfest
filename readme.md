@@ -35,7 +35,11 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [Java](https://github.com/TheAlgorithms/Java)
 
-### PYTHON
+### PHP
+
+- [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
+
+### Python
 
 - [PyBites](https://pybit.es/codechallenge38.html)
 
