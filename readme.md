@@ -62,6 +62,7 @@ Below you will find projects that have created/labelled various issues for Hackt
 
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 - [Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In)
+- [Hacktoberfest List 2017](https://github.com/FlareNetwork/Hacktober-List-2017)
 
 ## Contribute
 
