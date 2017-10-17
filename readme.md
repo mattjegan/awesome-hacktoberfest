@@ -56,6 +56,7 @@ Below you will find projects that have created/labelled various issues for Hackt
 
 - [django-gamification](https://github.com/mattjegan/django-gamification)
 - [howlong](https://github.com/mattjegan/HowLong)
+- [Ralph](https://github.com/allegro/ralph)
 - [wtfuzz](https://github.com/mattjegan/wtfuzz)
 
 ## Misc Resources
