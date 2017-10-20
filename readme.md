@@ -58,6 +58,7 @@ Below you will find projects that have created/labelled various issues for Hackt
 - [howlong](https://github.com/mattjegan/HowLong)
 - [Ralph](https://github.com/allegro/ralph)
 - [wtfuzz](https://github.com/mattjegan/wtfuzz)
+- [Tipboard](https://github.com/allegro/tipboard)
 
 ## Misc Resources
 
