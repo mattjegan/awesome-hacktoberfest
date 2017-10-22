@@ -21,6 +21,8 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 ### HTML
 
+- [color-hacktober](https://github.com/PAPERPANKS/color-hacktober)
+
 - [league_app](https://github.com/connorphee/league_app)
 
 - [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
