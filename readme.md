@@ -19,6 +19,8 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
 
+- [jest-extended](https://github.com/mattphillips/jest-extended)
+
 ### HTML
 
 - [color-hacktober](https://github.com/PAPERPANKS/color-hacktober)
