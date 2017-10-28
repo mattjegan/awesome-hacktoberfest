@@ -39,6 +39,10 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [Java](https://github.com/TheAlgorithms/Java)
 
+### Markdown
+
+- [Hacktoberfest-Census](https://github.com/Cutwell/Hacktoberfest-Census)
+
 ### PHP
 
 - [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
