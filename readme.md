@@ -29,6 +29,8 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
 
+- [Hacktoberfest-PR](https://github.com/nikhilmufc7/Hacktoberfest-PR)
+
 ### CSS
 
 - [shopee_design](https://github.com/bluetch/shopee_design)
