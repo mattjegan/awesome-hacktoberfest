@@ -21,6 +21,8 @@ Below you will find projects that have been created specifically for Hacktoberfe
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 
+- [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
+
 ### HTML
 
 - [color-hacktober](https://github.com/PAPERPANKS/color-hacktober)
