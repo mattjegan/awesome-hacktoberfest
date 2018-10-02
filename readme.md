@@ -72,6 +72,9 @@ Below you will find projects that have created/labelled various issues for Hackt
 - [wtfuzz](https://github.com/mattjegan/wtfuzz)
 - [Tipboard](https://github.com/allegro/tipboard)
 
+## SVG
+- [atom-icons](https://github.com/HackeSta/atom-icons)
+
 ## Misc Resources
 
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
