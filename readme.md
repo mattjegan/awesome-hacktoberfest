@@ -84,7 +84,7 @@ Below you will find projects that have created/labelled various issues for Hackt
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
 
 
 ## License
