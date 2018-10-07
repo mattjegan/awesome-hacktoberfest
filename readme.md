@@ -46,7 +46,7 @@ Below you will find projects that have been created specifically for Hacktoberfe
 ### Markdown
 
 - [Hacktoberfest-Census](https://github.com/Cutwell/Hacktoberfest-Census)
-- [YourFirstPR](https://github.com/Joonsang1994/YourFirstPR)
+- [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 
 ### PHP
 
