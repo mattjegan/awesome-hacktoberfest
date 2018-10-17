@@ -8,6 +8,12 @@
 - [Projects made for Hacktoberfest](#projects-made-for-hacktoberfest)
 - [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
 
+## Companies participating in Hacktoberfest
+
+- [Source{d}](https://go.sourced.tech/hacktoberfest)
+- [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
+- [Microsoft](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)
+
 
 ## Projects made for Hacktoberfest
 
