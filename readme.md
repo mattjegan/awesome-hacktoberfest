@@ -89,6 +89,7 @@ Below you will find projects that have created/labelled various issues for Hackt
 - [Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In)
 - [Hacktoberfest List 2017](https://github.com/FlareNetwork/Hacktober-List-2017)
 - [Reading List](https://github.com/mattjegan/reading-list)
+- [Issue Finder](http://hacktoberfest-finder.netlify.com)
 
 ## Contribute
 
