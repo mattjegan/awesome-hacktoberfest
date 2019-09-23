@@ -86,6 +86,7 @@ Below you will find projects that have created/labelled various issues for Hackt
 ## Misc Resources
 
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
+- [Hacktoberfest Swag List](https://benbarth.github.io/hacktoberfest-swag/) - list of all goodies given away by companies
 - [Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In)
 - [Hacktoberfest List 2017](https://github.com/FlareNetwork/Hacktober-List-2017)
 - [Reading List](https://github.com/mattjegan/reading-list)
