@@ -2,7 +2,6 @@
 
 > Hacktoberfest-related resources
 
-
 ## Contents
 
 - [Projects made for Hacktoberfest](#projects-made-for-hacktoberfest)
@@ -14,45 +13,31 @@
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Microsoft](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)
 
-
 ## Projects made for Hacktoberfest
 
-Below you will find projects that have been created specifically for Hacktoberfest.
+Below you will find awesome projects that have been created specifically for Hacktoberfest.
 
 ### Javascript
 
 - [hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
-
 - [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
-
 - [jest-extended](https://github.com/mattphillips/jest-extended)
-
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
 
 ### HTML
 
 - [color-hacktober](https://github.com/PAPERPANKS/color-hacktober)
-
 - [league_app](https://github.com/connorphee/league_app)
-
 - [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
-
-- [Hacktoberfest-PR](https://github.com/nikhilmufc7/Hacktoberfest-PR)
 
 ### CSS
 
 - [shopee_design](https://github.com/bluetch/shopee_design)
-
 - [crystal-ann](https://github.com/crystal-community/crystal-ann)
 
-### JAVA
+### Java
 
 - [Java](https://github.com/TheAlgorithms/Java)
-
-### Markdown
-
-- [Hacktoberfest-Census](https://github.com/Cutwell/Hacktoberfest-Census)
-- [Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 
 ### PHP
 
@@ -61,6 +46,10 @@ Below you will find projects that have been created specifically for Hacktoberfe
 ### Python
 
 - [PyBites](https://pybit.es/codechallenge38.html)
+
+### React
+
+- [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
@@ -81,21 +70,20 @@ Below you will find projects that have created/labelled various issues for Hackt
 - [quick-net](https://github.com/Zwork101/quick-net)
 
 ## SVG
+
 - [atom-icons](https://github.com/HackeSta/atom-icons)
 
 ## Misc Resources
 
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 - [Hacktoberfest Swag List](https://benbarth.github.io/hacktoberfest-swag/) - list of all goodies given away by companies
-- [Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In)
-- [Hacktoberfest List 2017](https://github.com/FlareNetwork/Hacktober-List-2017)
 - [Reading List](https://github.com/mattjegan/reading-list)
 - [Issue Finder](http://hacktoberfest-finder.netlify.com)
+- [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 
 ## Contribute
 
 Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
