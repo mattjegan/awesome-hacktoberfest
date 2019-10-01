@@ -50,7 +50,7 @@ Below you will find awesome projects that have been created specifically for Hac
 ### React
 
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
-
+- [Hacktoberfest Checker](https://github.com/luanmbrito/ReactJs-E-Axios)
 ## Projects friendly to Hacktoberfest 1st time contributors
 
 Below you will find projects that have created/labelled various issues for Hacktoberfest and try to be very welcoming for 1st time contributors.
