@@ -2,6 +2,10 @@
 
 > Hacktoberfest-related resources
 
+## Official website for registration and tips on how to get started 
+
+- https://hacktoberfest.digitalocean.com
+
 ## Blogs
 
 - [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33)
