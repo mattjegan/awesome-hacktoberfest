@@ -2,10 +2,9 @@
 
 > Hacktoberfest-related resources
 
-## Contents
+## Blogs
 
-- [Projects made for Hacktoberfest](#projects-made-for-hacktoberfest)
-- [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
+- [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33)
 
 ## Companies participating in Hacktoberfest
 
@@ -17,7 +16,7 @@
 
 Below you will find awesome projects that have been created specifically for Hacktoberfest.
 
-### Javascript
+### JavaScript
 
 - [hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
 - [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
