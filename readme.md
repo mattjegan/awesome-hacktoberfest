@@ -10,7 +10,6 @@
 
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
-- [Microsoft](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)
 
 ## Projects made for Hacktoberfest
 
@@ -18,16 +17,12 @@ Below you will find awesome projects that have been created specifically for Hac
 
 ### JavaScript
 
-- [hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
-- [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
 
 ### HTML
 
-- [color-hacktober](https://github.com/PAPERPANKS/color-hacktober)
 - [league_app](https://github.com/connorphee/league_app)
-- [DuhMyIP](https://github.com/thedmeyer/DuhMyIP)
 
 ### CSS
 
