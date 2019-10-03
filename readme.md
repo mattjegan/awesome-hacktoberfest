@@ -2,7 +2,8 @@
 
 > Hacktoberfest-related resources
 
-## HACTOBERFEST 2019
+## Official website for registration and tips on how to get started 
+
 - [Hactoberfest Official Website](https://hacktoberfest.digitalocean.com/)
 
 ## Blogs
