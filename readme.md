@@ -2,7 +2,7 @@
 
 > Hacktoberfest-related resources
 
-## HACTOBERFEST 2020
+## HACTOBERFEST 2019
 - [Hactoberfest Official Website](https://hacktoberfest.digitalocean.com/)
 
 ## Blogs
