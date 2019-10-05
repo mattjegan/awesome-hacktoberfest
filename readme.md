@@ -2,9 +2,13 @@
 
 > Hacktoberfest-related resources
 
-## Official website for registration and tips on how to get started 
+[![Hacktoberfest 2019 logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)](https://benbarth.github.io/hacktoberfest-swag/)
+
+## Official website for registration and tips on how to get started
 
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
+- [Hacktoberfest Tutorial](https://youtu.be/0mjJS1Y8wrI) - Introduction to Hacktoberfest
+- [Hacktoberfest Swag List](https://benbarth.github.io/hacktoberfest-swag/) - List of all goodies given away by companies
 
 ## Blogs
 
@@ -78,7 +82,6 @@ See also the search engine [Up For Grabs](https://up-for-grabs.net/#/).
 ## Misc Resources
 
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
-- [Hacktoberfest Swag List](https://benbarth.github.io/hacktoberfest-swag/) - list of all goodies given away by companies
 - [Reading List](https://github.com/mattjegan/reading-list)
 - [Issue Finder](http://hacktoberfest-finder.netlify.com)
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
