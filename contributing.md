@@ -9,6 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guideline
 
 > Hacktoberfest's value #2 **Quantity is fun, quality is key**
+
 > Hacktoberfest's value #3 **Short-term actions, long-term impact!**
 See <https://hacktoberfest.digitalocean.com/details> for details.
 
