@@ -6,13 +6,11 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+Ensure your pull request adheres to the following guideline
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+> Hacktoberfest's value #2 **Quantity is fun, quality is key**
 
-Thank you for your suggestions!
+See <https://hacktoberfest.digitalocean.com/details> for details.
 
 ## Updating your PR
 
