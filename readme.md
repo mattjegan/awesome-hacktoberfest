@@ -19,6 +19,11 @@
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 
+## Nonprofits participating in hacktoberfest
+
+- [Oppia] (https://github.com/oppia/oppia/labels/Hacktoberfest)
+- [If-Me] (https://github.com/ifmeorg/ifme/labels/hacktoberfest)
+
 ## Projects made for Hacktoberfest
 
 Below you will find awesome projects that have been created specifically for Hacktoberfest.
