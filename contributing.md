@@ -10,7 +10,7 @@ Ensure your pull request adheres to the following guideline
 
 > Hacktoberfest's value #2 **Quantity is fun, quality is key**
 
-> Hacktoberfest's value #3 **Short-term actions, long-term impact!**
+> Be wary of this before posting **Spammy PRs can be labeled as “invalid.”**
 See <https://hacktoberfest.digitalocean.com/details> for details.
 
 ## Updating your PR
