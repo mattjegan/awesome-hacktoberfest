@@ -10,9 +10,12 @@ Ensure your pull request adheres to the following guideline
 
 > Hacktoberfest's value #2 **Quantity is fun, quality is key**
 
-> Be wary of this before posting **Spammy PRs can be labeled as “invalid.” ** Also, Just adding oneself to contributing.md will probably marked as invalid.
+> Be wary of this before posting **Spammy PRs can be labeled as “invalid.” ** 
+
+>Also, just adding oneself to contributing.md will probably marked as invalid. 
 
 See <https://hacktoberfest.digitalocean.com/details> for details.
+
 
 ## Updating your PR
 
