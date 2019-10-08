@@ -21,8 +21,8 @@
 
 ## Nonprofits participating in hacktoberfest
 
-- [Oppia] (https://github.com/oppia/oppia/labels/Hacktoberfest)
-- [If-Me] (https://github.com/ifmeorg/ifme/labels/hacktoberfest)
+- [Oppia](https://github.com/oppia/oppia/labels/Hacktoberfest)
+- [If-Me](https://github.com/ifmeorg/ifme/labels/hacktoberfest)
 
 ## Projects made for Hacktoberfest
 
