@@ -1,2 +1,3 @@
 * text=auto
 readme.md merge=union
+*.docx diff=word
