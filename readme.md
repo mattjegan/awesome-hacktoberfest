@@ -53,6 +53,7 @@ Below you will find awesome projects that have been created specifically for Hac
 ### Python
 
 - [PyBites](https://pybit.es/codechallenge38.html)
+- [python-ds](https://github.com/prabhupant/python-ds)
 
 ### React
 
@@ -79,6 +80,7 @@ See also the search engine [Up For Grabs](https://up-for-grabs.net/#/).
 - [wtfuzz](https://github.com/mattjegan/wtfuzz)
 - [Tipboard](https://github.com/allegro/tipboard)
 - [quick-net](https://github.com/Zwork101/quick-net)
+- [python-ds](https://github.com/prabhupant/python-ds)
 
 ## SVG
 
