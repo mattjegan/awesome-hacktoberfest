@@ -9,6 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guideline
 
 > Hacktoberfest's value #2 **Quantity is fun, quality is key**
+
 > Make sure you aren't just changing a letter around. Try to think of something that will improve the program!
 
 See <https://hacktoberfest.digitalocean.com/details> for details.
