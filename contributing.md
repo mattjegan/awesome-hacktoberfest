@@ -9,7 +9,8 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guideline
 
 > Hacktoberfest's value #2 **Quantity is fun, quality is key**
-> Another great tip is to make sure pull requests are genuine, not spammy, not fake, and are aimed towards contributing to a project for improvement! 
+
+> Another great tip is to make sure pull requests are **genuine**, not spammy, not fake, and are aimed towards contributing to a project for improvement! 
 
 See <https://hacktoberfest.digitalocean.com/details> for details.
 
