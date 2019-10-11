@@ -99,10 +99,11 @@ They try to be very welcoming for 1st time contributors.
 
 - [django-gamification](https://github.com/mattjegan/django-gamification)
 - [howlong](https://github.com/mattjegan/HowLong)
-- [Ralph](https://github.com/allegro/ralph)
-- [wtfuzz](https://github.com/mattjegan/wtfuzz)
-- [Tipboard](https://github.com/allegro/tipboard)
+- [python-ds](https://github.com/prabhupant/python-ds) - datastructures implemented in PYthon
 - [quick-net](https://github.com/Zwork101/quick-net)
+- [Ralph](https://github.com/allegro/ralph)
+- [Tipboard](https://github.com/allegro/tipboard)
+- [wtfuzz](https://github.com/mattjegan/wtfuzz)
 
 ### React
 
