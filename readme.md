@@ -31,7 +31,7 @@ Here, you find possibilities to ease the search.
 
 ### Search engines
 
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - find issues made especially for hacktoberfest, also allows to filter by language
+- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows to filter by language
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 
 ### Using Labels
@@ -48,7 +48,7 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 Here you find projects that were made especially for hacktoberfest.
 
 - [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - 
+- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows to filter by language
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
