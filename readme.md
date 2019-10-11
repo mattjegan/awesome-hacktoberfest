@@ -21,46 +21,60 @@
 
 ## Nonprofits participating in hacktoberfest
 
-- [Oppia](https://github.com/oppia/oppia/labels/Hacktoberfest)
 - [If-Me](https://github.com/ifmeorg/ifme/labels/hacktoberfest)
+- [Oppia](https://github.com/oppia/oppia/labels/Hacktoberfest)
 
 ## Projects made for Hacktoberfest
 
-Below you will find awesome projects that have been created specifically for Hacktoberfest.
+Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
 
 ### JavaScript
+
+([all HTML projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
 
 ### HTML
 
+([all HTML projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=HTML))
+
 - [league_app](https://github.com/connorphee/league_app)
 
 ### CSS
 
+([all CSS projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=CSS))
+
 - [shopee_design](https://github.com/bluetch/shopee_design)
 - [crystal-ann](https://github.com/crystal-community/crystal-ann)
 
+### Dart / Flutter
+
+([all dart projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=Dart&l=))
+
+- [The Public Transport](https://github.com/thepublictransport/thepublictransport-app)
+
 ### Java
 
-- [Java](https://github.com/TheAlgorithms/Java)
+([all Java projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=Java&l=))
+
+- [JabRef](https://www.jabref.org/hacktoberfest/2019.html)
 
 ### PHP
+
+([all PHP projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3APHP&type=Issues&ref=advsearch&l=&l=))
 
 - [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
 
 ### Python
 
-- [PyBites](https://pybit.es/codechallenge38.html)
+([all python projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3APython&type=Issues&ref=advsearch&l=Dart&l=))
 
 ### React
 
+([all React projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=React&l=))
+
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
-
-### Dart / Flutter
-
-- [The Public Transport](https://github.com/thepublictransport/thepublictransport-app)
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
@@ -68,10 +82,10 @@ Below you will find projects that have created/labelled various issues for Hackt
 
 ### GitHub labels
 
+- [hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest
 - [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
 - [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
-- [hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue)
 
 See also the search engine [Up For Grabs](https://up-for-grabs.net/#/).
 
