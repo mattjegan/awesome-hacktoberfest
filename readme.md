@@ -58,6 +58,10 @@ Below you will find awesome projects that have been created specifically for Hac
 
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
 
+### Dart / Flutter
+
+- [The Public Transport](https://github.com/thepublictransport/thepublictransport-app)
+
 ## Projects friendly to Hacktoberfest 1st time contributors
 
 Below you will find projects that have created/labelled various issues for Hacktoberfest and try to be very welcoming for 1st time contributors.
