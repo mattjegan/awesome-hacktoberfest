@@ -16,30 +16,44 @@
 
 ## Companies participating in Hacktoberfest
 
-- [Source{d}](https://go.sourced.tech/hacktoberfest)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
+- [Source{d}](https://go.sourced.tech/hacktoberfest)
 
 ## Nonprofits participating in hacktoberfest
 
 - [If-Me](https://github.com/ifmeorg/ifme/labels/hacktoberfest)
 - [Oppia](https://github.com/oppia/oppia/labels/Hacktoberfest)
 
+## Finding Issues
+
+Finding a good issue to work on takes time.
+Here, you find possibilities to ease the search.
+
+### Search engines
+
+- [Issue Finder](http://hacktoberfest-finder.netlify.com) - find issues made especially for hacktoberfest, also allows to filter by language
+- [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
+
+### Using Labels
+
+With these labels, one finds issues to level up his skills in hacktoberfest.
+
+- [hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest
+- [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
+- [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
+- [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
+
 ## Projects made for Hacktoberfest
 
+Here you find projects that were made especially for hacktoberfest.
+
+- [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
+- [Issue Finder](http://hacktoberfest-finder.netlify.com) - 
+
+## Projects friendly to Hacktoberfest 1st time contributors
+
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
-
-### JavaScript
-
-([all HTML projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
-
-- [jest-extended](https://github.com/mattphillips/jest-extended)
-- [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
-
-### HTML
-
-([all HTML projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=HTML))
-
-- [league_app](https://github.com/connorphee/league_app)
+They try to be very welcoming for 1st time contributors.
 
 ### CSS
 
@@ -53,6 +67,19 @@ Below you will find awesome projects that have been put notable efforts into Hac
 ([all dart projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=Dart&l=))
 
 - [The Public Transport](https://github.com/thepublictransport/thepublictransport-app)
+
+### HTML
+
+([all HTML projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=HTML))
+
+- [league_app](https://github.com/connorphee/league_app)
+
+### JavaScript
+
+([all HTML projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
+
+- [jest-extended](https://github.com/mattphillips/jest-extended)
+- [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
 
 ### Java
 
@@ -70,27 +97,6 @@ Below you will find awesome projects that have been put notable efforts into Hac
 
 ([all python projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3APython&type=Issues&ref=advsearch&l=Dart&l=))
 
-### React
-
-([all React projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=React&l=))
-
-- [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
-
-## Projects friendly to Hacktoberfest 1st time contributors
-
-Below you will find projects that have created/labelled various issues for Hacktoberfest and try to be very welcoming for 1st time contributors.
-
-### GitHub labels
-
-- [hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest
-- [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
-- [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
-- [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
-
-See also the search engine [Up For Grabs](https://up-for-grabs.net/#/).
-
-### Python
-
 - [django-gamification](https://github.com/mattjegan/django-gamification)
 - [howlong](https://github.com/mattjegan/HowLong)
 - [Ralph](https://github.com/allegro/ralph)
@@ -98,16 +104,21 @@ See also the search engine [Up For Grabs](https://up-for-grabs.net/#/).
 - [Tipboard](https://github.com/allegro/tipboard)
 - [quick-net](https://github.com/Zwork101/quick-net)
 
+### React
+
+([all React projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=React&l=))
+
+- [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
+
 ## SVG
 
 - [atom-icons](https://github.com/HackeSta/atom-icons)
 
 ## Misc Resources
 
+- [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 - [Reading List](https://github.com/mattjegan/reading-list)
-- [Issue Finder](http://hacktoberfest-finder.netlify.com)
-- [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 
 ## Contribute
 
@@ -117,5 +128,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Matthew Egan has waived all copyright and
-related or neighboring rights to this work.
+To the extent possible under law, Matthew Egan has waived all copyright and related or neighboring rights to this work.
