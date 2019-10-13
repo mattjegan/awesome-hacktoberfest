@@ -12,12 +12,21 @@
 
 ## Blogs
 
-- [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33)
+- [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33) - Article on the basics of Hacktoberfest
 
 ## Companies participating in Hacktoberfest
 
+- [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
+- [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
+- [Aqua Security](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+- [Circle CI](https://circleci-public.github.io/hacktoberfest/#/)
+- [Coding Blocks](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
+- [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
+- [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
+- [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
+
 
 ## Nonprofits participating in hacktoberfest
 
