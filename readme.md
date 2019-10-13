@@ -76,7 +76,7 @@ They try to be very welcoming for 1st time contributors.
 
 ### JavaScript
 
-([all HTML projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
+([all JavaScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
