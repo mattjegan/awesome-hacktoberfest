@@ -27,6 +27,209 @@
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
 
+## ⚡️ Git Cheat Sheet
+* [Set Up](#setup)
+* [Configuration Files](#configuration-files)
+* [Create](#create)
+* [Local Changes](#local-changes)
+* [Search](#search)
+## Setup
+
+##### Show current configuration:
+```
+$ git config --list
+```
+##### Show repository configuration:
+```
+$ git config --local --list
+```
+
+##### Show global configuration:
+```
+$ git config --global --list
+```
+
+##### Show system configuration:
+```
+$ git config --system --list
+```
+
+##### Set a name that is identifiable for credit when review version history:
+```
+$ git config --global user.name "[firstname lastname]"
+```
+
+##### Set an email address that will be associated with each history marker:
+```
+$ git config --global user.email "[valid-email]"
+```
+
+##### Set automatic command line coloring for Git for easy reviewing:
+```
+$ git config --global color.ui auto
+```
+
+##### Set global editor for commit:
+```
+$ git config --global core.editor vi
+```
+
+<hr>
+
+## Configuration Files
+
+##### Repository specific configuration file [--local]:
+```
+<repo>/.git/config
+```
+
+##### User-specific configuration file [--global]:
+```
+~/.gitconfig
+```
+
+##### System-wide configuration file [--system]:
+```
+/etc/gitconfig
+```
+
+<hr>
+
+## Create
+
+##### Clone an existing repository:
+
+There are two ways:
+
+Via SSH
+
+```
+$ git clone ssh://user@domain.com/repo.git
+```
+
+Via HTTP
+
+```
+$ git clone http://domain.com/user/repo.git
+```
+
+##### Create a new local repository:
+```
+$ git init
+```
+
+<hr>
+
+## Local Changes
+
+##### Changes in working directory:
+```
+$ git status
+```
+
+##### Changes to tracked files:
+```
+$ git diff
+```
+
+##### Add all current changes to the next commit:
+```
+$ git add .
+```
+
+##### Add some changes in &lt;file&gt; to the next commit:
+```
+$ git add -p <file>
+```
+
+##### Commit all local changes in tracked files:
+```
+$ git commit -a
+```
+
+##### Commit previously staged changes:
+```
+$ git commit
+```
+
+##### Commit with message:
+```
+$ git commit -m 'message here'
+```
+
+##### Commit skipping the staging area and adding message:
+```
+$ git commit -am 'message here'
+```
+
+##### Commit to some previous date:
+```
+$ git commit --date="`date --date='n day ago'`" -am "<Commit Message Here>"
+```
+
+##### Change last commit:<br>
+<em><sub>Don't amend published commits!</sub></em>
+
+```
+$ git commit -a --amend
+```
+
+##### Amend with last commit but use the previous commit log message
+<em><sub>Don't amend published commits!</sub></em>
+
+```shell
+$ git commit --amend --no-edit
+```
+
+##### Change committer date of last commit:
+```
+GIT_COMMITTER_DATE="date" git commit --amend
+```
+
+##### Change Author date of last commit:
+```shell
+$ git commit --amend --date="date"
+```
+
+##### Move uncommitted changes from current branch to some other branch:<br>
+```
+$ git stash
+$ git checkout branch2
+$ git stash pop
+```
+
+##### Restore stashed changes back to current branch:
+```shell
+$ git stash apply
+```
+
+#### Restore particular stash back to current branch:
+- *{stash_number}* can be obtained from `git stash list`
+
+```shell
+$ git stash apply stash@{stash_number}
+```
+
+##### Remove the last set of stashed changes:
+```
+$ git stash drop
+```
+
+<hr>
+
+## Search
+
+##### A text search on all files in the directory:
+```
+$ git grep "Hello"
+```
+
+##### In any version of a text search:
+```
+$ git grep "Hello" v2.5
+```
+
+<hr>
 
 ## Nonprofits participating in hacktoberfest
 
