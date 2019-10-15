@@ -3,6 +3,13 @@
 > Hacktoberfest-related resources
 
 [![Hacktoberfest 2019 logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)](https://benbarth.github.io/hacktoberfest-swag/)
+# 🙌 Hacktoberfest
+
+This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
+
+[Meetup Event](https://www.meetup.com/DigitalOceanLahore/events/244307272/) sponsorship [DigitalOcean →](https://www.digitalocean.com/)
+
+![DO](https://on.ahmda.ws/rlEn/c)
 
 ## Official website for registration and tips on how to get started
 
