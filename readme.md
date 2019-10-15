@@ -63,6 +63,250 @@ Here you find projects that were made especially for hacktoberfest.
 
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
 They try to be very welcoming for 1st time contributors.
+## Everyday Git in twenty commands or so
+```sh
+git help everyday
+```
+
+## Show helpful guides that come with Git
+```sh
+git help -g
+```
+
+## Search change by content
+```sh
+git log -S'<a term in the source>'
+```
+
+## Sync with remote, overwrite local changes
+```sh
+git fetch origin && git reset --hard origin/master && git clean -f -d
+```
+
+## List of all files till a commit
+```sh
+git ls-tree --name-only -r <commit-ish>
+```
+
+## Git reset first commit
+```sh
+git update-ref -d HEAD
+```
+
+## List all the conflicted files
+```sh
+git diff --name-only --diff-filter=U
+```
+
+## List of all files changed in a commit
+```sh
+git diff-tree --no-commit-id --name-only -r <commit-ish>
+```
+
+## Unstaged changes since last commit
+```sh
+git diff
+```
+
+## Changes staged for commit
+```sh
+git diff --cached
+```
+
+
+__Alternatives:__
+```sh
+git diff --staged
+```
+
+## Show both staged and unstaged changes
+```sh
+git diff HEAD
+```
+
+## List all branches that are already merged into master
+```sh
+git branch --merged master
+```
+
+## Quickly switch to the previous branch
+```sh
+git checkout -
+```
+
+
+__Alternatives:__
+```sh
+git checkout @{-1}
+```
+
+## Remove branches that have already been merged with master
+```sh
+git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
+```
+
+
+__Alternatives:__
+```sh
+git branch --merged master | grep -v '^\*\|  master' | xargs -n 1 git branch -d # will not delete master if master is not checked out
+```
+
+## List all branches and their upstreams, as well as last commit on branch
+```sh
+git branch -vv
+```
+
+## Track upstream branch
+```sh
+git branch -u origin/mybranch
+```
+
+## Delete local branch
+```sh
+git branch -d <local_branchname>
+```
+
+## Delete remote branch
+```sh
+git push origin --delete <remote_branchname>
+```
+
+
+__Alternatives:__
+```sh
+git push origin :<remote_branchname>
+```
+
+## Delete local tag
+```sh
+git tag -d <tag-name>
+```
+
+## Delete remote tag
+```sh
+git push origin :refs/tags/<tag-name>
+```
+
+## Undo local changes with the last content in head
+```sh
+git checkout -- <file_name>
+```
+
+## Revert: Undo a commit by creating a new commit
+```sh
+git revert <commit-ish>
+```
+
+## Reset: Discard commits, advised for private branch
+```sh
+git reset <commit-ish>
+```
+
+## Reword the previous commit message
+```sh
+git commit -v --amend
+```
+
+## See commit history for just the current branch
+```sh
+git cherry -v master
+```
+
+## Amend author.
+```sh
+git commit --amend --author='Author Name <email@address.com>'
+```
+
+## Reset author, after author has been changed in the global config.
+```sh
+git commit --amend --reset-author --no-edit
+```
+
+## Changing a remote's URL
+```sh
+git remote set-url origin <URL>
+```
+
+## Get list of all remote references
+```sh
+git remote
+```
+
+
+__Alternatives:__
+```sh
+git remote show
+```
+
+## Get list of all local and remote branches
+```sh
+git branch -a
+```
+
+## Get only remote branches
+```sh
+git branch -r
+```
+
+## Stage parts of a changed file, instead of the entire file
+```sh
+git add -p
+```
+
+## Get git bash completion
+```sh
+curl http://git.io/vfhol > ~/.git-completion.bash && echo '[ -f ~/.git-completion.bash ] && . ~/.git-completion.bash' >> ~/.bashrc
+```
+
+## What changed since two weeks?
+```sh
+git log --no-merges --raw --since='2 weeks ago'
+```
+
+
+__Alternatives:__
+```sh
+git whatchanged --since='2 weeks ago'
+```
+
+## See all commits made since forking from master
+```sh
+git log --no-merges --stat --reverse master..
+```
+
+## Pick commits across branches using cherry-pick
+```sh
+git checkout <branch-name> && git cherry-pick <commit-ish>
+```
+
+## Find out branches containing commit-hash
+```sh
+git branch -a --contains <commit-ish>
+```
+
+
+__Alternatives:__
+```sh
+git branch --contains <commit-ish>
+```
+
+## Git Aliases
+```sh
+git config --global alias.<handle> <command>
+git config --global alias.st status
+```
+
+## Saving current state of tracked files without commiting
+```sh
+git stash
+```
+
+
+__Alternatives:__
+```sh
+git stash save
+```
+
 
 ### CSS
 
@@ -129,6 +373,8 @@ They try to be very welcoming for 1st time contributors.
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 - [Reading List](https://github.com/mattjegan/reading-list)
+
+
 
 ## Contribute
 
