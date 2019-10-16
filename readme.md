@@ -64,6 +64,9 @@ Here you find projects that were made especially for hacktoberfest.
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
 They try to be very welcoming for 1st time contributors.
 
+### Algorithms
+ -[COEP's Repo](https://github.com/ASCI-COEP/hacktoberfest)
+
 ### CSS
 
 ([all CSS projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=CSS))
