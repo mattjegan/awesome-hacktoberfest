@@ -128,7 +128,6 @@ They try to be very welcoming for 1st time contributors.
 
 ([all TypeScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ATypescript&type=Issues&ref=advsearch&l=Typescript))
 
-
 ## Misc Resources
 
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
