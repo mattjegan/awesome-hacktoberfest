@@ -14,25 +14,6 @@
 
 - [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33) - Article on the basics of Hacktoberfest
 
-## Companies participating in Hacktoberfest
-
-- [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
-- [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
-- [Aqua Security](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
-- [Circle CI](https://circleci-public.github.io/hacktoberfest/#/)
-- [Coding Blocks](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
-- [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
-- [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
-- [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
-- [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
-- [Source{d}](https://go.sourced.tech/hacktoberfest)
-
-
-## Nonprofits participating in hacktoberfest
-
-- [If-Me](https://github.com/ifmeorg/ifme/labels/hacktoberfest)
-- [Oppia](https://github.com/oppia/oppia/labels/Hacktoberfest)
-
 ## Finding Issues
 
 Finding a good issue to work on takes time.
@@ -52,17 +33,13 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 - [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
 
-## Projects made for Hacktoberfest
-
-Here you find projects that were made especially for hacktoberfest.
-
-- [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows to filter by language
-
 ## Projects friendly to Hacktoberfest 1st time contributors
 
+You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly.
+
+In case you are an experienced developer, projects have propared special issues for hacktoberfest.
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
-They try to be very welcoming for 1st time contributors.
+They also try to be very welcoming for 1st time contributors.
 
 ### CSS
 
@@ -120,9 +97,34 @@ They try to be very welcoming for 1st time contributors.
 
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
 
-## SVG
+### SVG
 
 - [atom-icons](https://github.com/HackeSta/atom-icons)
+
+## Projects made for Hacktoberfest
+
+Here you find projects that were made especially for hacktoberfest.
+
+- [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
+- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows to filter by language
+
+## Companies participating in Hacktoberfest
+
+- [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
+- [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
+- [Aqua Security](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+- [Circle CI](https://circleci-public.github.io/hacktoberfest/#/)
+- [Coding Blocks](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
+- [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
+- [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
+- [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
+- [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
+- [Source{d}](https://go.sourced.tech/hacktoberfest)
+
+## Nonprofits participating in hacktoberfest
+
+- [If-Me](https://github.com/ifmeorg/ifme/labels/hacktoberfest)
+- [Oppia](https://github.com/oppia/oppia/labels/Hacktoberfest)
 
 ## Misc Resources
 
