@@ -1,6 +1,7 @@
 # Awesome Hacktoberfest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Hacktoberfest-related resources
+> [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
+> This page lists links to aesome background information and links to awesome contribution possibilities.
 
 [![Hacktoberfest 2019 logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)](https://benbarth.github.io/hacktoberfest-swag/)
 
@@ -10,11 +11,12 @@
 - [Hacktoberfest Tutorial](https://youtu.be/0mjJS1Y8wrI) - Introduction to Hacktoberfest
 - [Hacktoberfest Swag List](https://benbarth.github.io/hacktoberfest-swag/) - List of all goodies given away by companies
 
-## Blogs
+## Blogs entries
 
+- [Digitial Ocean's Blog Entry for Hacktoberfest 2019](https://blog.digitalocean.com/hacktoberfest-is-back-for-year-six/) - provides background information and explains **Participating for the right reasons**
 - [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33) - Article on the basics of Hacktoberfest
 
-## Finding Issues
+## Finding issues
 
 Finding a good issue to work on takes time.
 Here, you find possibilities to ease the search.
@@ -24,7 +26,7 @@ Here, you find possibilities to ease the search.
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows to filter by language
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 
-### Using Labels
+### Using labels
 
 With these labels, one finds issues to level up his skills in hacktoberfest.
 
@@ -121,12 +123,12 @@ Here you find projects that were made especially for hacktoberfest.
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
 
-## Nonprofits participating in hacktoberfest
+## Nonprofits participating in Hacktoberfest
 
 - [If-Me](https://github.com/ifmeorg/ifme/labels/hacktoberfest)
 - [Oppia](https://github.com/oppia/oppia/labels/Hacktoberfest)
 
-## Misc Resources
+## Misc resources
 
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
@@ -134,7 +136,10 @@ Here you find projects that were made especially for hacktoberfest.
 
 ## Contribute
 
-Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome!
+Please read the [contribution guidelines](contributing.md) first.
+Especially have the motto "quality over quantitiy" in mind.
+Hacktoberfest is there to level up coding skills, not the capability to submit arbitrary files to arbitrary repositories.
 
 ## License
 
