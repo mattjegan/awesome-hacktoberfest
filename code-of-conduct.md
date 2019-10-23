@@ -1,5 +1,19 @@
 # Contributor Covenant Code of Conduct
 
+#Why do I need a code of conduct?
+
+A code of conduct is a document that establishes expectations for behavior for 
+your project’s participants. Adopting, and enforcing, a code of conduct can 
+help create a positive social atmosphere for your community.
+Codes of conduct help protect not just your participants, but yourself. 
+If you maintain a project, you may find that unproductive attitudes from
+other participants can make you feel drained or unhappy about your work over 
+time.A code of conduct empowers you to facilitate healthy, constructive 
+community behavior. Being proactive reduces the likelihood that you, 
+or others, will become fatigued with your project, and helps you 
+take action when someone does something you don’t agree with.
+
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
