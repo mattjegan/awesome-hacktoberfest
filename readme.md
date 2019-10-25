@@ -1,7 +1,7 @@
 # Awesome Hacktoberfest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
-> This page lists links to aesome background information and links to awesome contribution possibilities.
+> This page lists links to awesome background information and links to awesome contribution possibilities.
 
 [![Hacktoberfest 2019 logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)](https://benbarth.github.io/hacktoberfest-swag/)
 
@@ -23,7 +23,7 @@ Here, you find possibilities to ease the search.
 
 ### Search engines
 
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows to filter by language
+- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 
 ### Using labels
@@ -39,9 +39,9 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 
 You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly.
 
-In case you are an experienced developer, projects have propared special issues for hacktoberfest.
+In case you are an experienced developer, projects have prepared special issues for hacktoberfest.
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
-They also try to be very welcoming for 1st time contributors.
+They also try to be very welcoming for 1st-time contributors.
 
 ### CSS
 
@@ -112,7 +112,7 @@ They also try to be very welcoming for 1st time contributors.
 Here you find projects that were made especially for hacktoberfest.
 
 - [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows to filter by language
+- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 
 ## Companies participating in Hacktoberfest
 
@@ -142,11 +142,11 @@ Here you find projects that were made especially for hacktoberfest.
 
 Contributions are welcome!
 Please read the [contribution guidelines](contributing.md) first.
-Especially have the motto "quality over quantitiy" in mind.
+Especially have the motto "quality over quantity" in mind.
 Hacktoberfest is there to level up coding skills, not the capability to submit arbitrary files to arbitrary repositories.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Matthew Egan has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, Matthew Egan has waived all copyright and related or neighbouring rights to this work.
