@@ -99,6 +99,10 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
 
+### React Native
+
+- [Hacktoberfest Tracker App](https://hacktoberfestchecker.jenko.me/) - Keep track of your and your friends' hacktoberfest progress. [[Source](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)]
+
 ### SVG
 
 - [atom-icons](https://github.com/HackeSta/atom-icons)
