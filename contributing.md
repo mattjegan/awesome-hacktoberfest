@@ -5,7 +5,7 @@ By participating in this project you agree to abide by its terms.
 
 ## Add quality
 
-Ensure your pull request adheres to the following guidelines
+Ensure your pull request adheres to the following guidelines.
 
 1. Hacktoberfest's value #2 **Quantity is fun, quality is key**. See <https://hacktoberfest.digitalocean.com/details> for details.
 2. Only awesome is awesome. See <https://github.com/sindresorhus/awesome/blob/master/awesome.md> for details.
