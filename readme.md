@@ -56,9 +56,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [The Public Transport](https://github.com/thepublictransport/thepublictransport-app)
 
-- (.[ xkcd viewer app].(https://github.com/wakahuula/xkcdViewer)
-
-- 
+- [xkcd viewer app](https://github.com/wakahuula/xkcdViewer)
 
 ### HTML
 
