@@ -68,6 +68,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
+- [vue-dropzone](https://github.com/zeit/hyper)
 
 ### Java
 
