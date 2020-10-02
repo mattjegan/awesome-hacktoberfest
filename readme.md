@@ -3,7 +3,7 @@
 > [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
 
-[![Hacktoberfest 2019 logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)](https://benbarth.github.io/hacktoberfest-swag/)
+[![Hacktoberfest 2019 logo](https://hacktoberfest-swag.com/assets/hacktoberfest-logo.png)](https://benbarth.github.io/hacktoberfest-swag/)
 
 ## Official website for registration and tips on how to get started
 
