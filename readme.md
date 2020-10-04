@@ -114,6 +114,8 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all TypeScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ATypescript&type=Issues&ref=advsearch&l=Typescript))
 
+- [LitmusChaos](https://github.com/litmuschaos/litmus/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
+
 ## Projects made for Hacktoberfest
 
 Here you find projects that were made especially for hacktoberfest.
@@ -131,6 +133,7 @@ Here you find projects that were made especially for hacktoberfest.
 - [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
 - [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
 - [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
+- [MayaData](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
 
