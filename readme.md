@@ -3,18 +3,13 @@
 > [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
 
-[![Hacktoberfest 2019 logo](https://hacktoberfest-swag.com/assets/hacktoberfest-logo.png)](https://benbarth.github.io/hacktoberfest-swag/)
+[![Hacktoberfest 2020 logo](https://hacktoberfest-swag.com/assets/hacktoberfest-logo.png)](https://hacktoberfest.digitalocean.com/)
 
 ## Official website for registration and tips on how to get started
 
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
-- [Hacktoberfest Tutorial](https://youtu.be/0mjJS1Y8wrI) - Introduction to Hacktoberfest
-- [Hacktoberfest Swag List](https://benbarth.github.io/hacktoberfest-swag/) - List of all goodies given away by companies
-
-## Blogs entries
-
-- [Digitial Ocean's Blog Entry for Hacktoberfest 2019](https://blog.digitalocean.com/hacktoberfest-is-back-for-year-six/) - provides background information and explains **Participating for the right reasons**
-- [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33) - Article on the basics of Hacktoberfest
+- [Hacktoberfest Tutorial](https://www.youtube.com/watch?v=mll-akn8Gqs) - Introduction to Hacktoberfest
+- [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) - List of all goodies given away by companies
 
 ## Finding issues
 
@@ -37,7 +32,7 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
-You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly. To learn more about how to make contributios visit [First Timers Only](https://firsttimersonly.com).
+You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly. To learn more about how to make contributions visit [First Timers Only](https://firsttimersonly.com).
 
 In case you are an experienced developer, projects have prepared special issues for hacktoberfest.
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
