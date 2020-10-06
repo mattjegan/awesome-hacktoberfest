@@ -72,6 +72,13 @@ They also try to be very welcoming for 1st-time contributors.
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
 
+### Android Dev
+  ([all Android dev projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=Android))
+ 
+ - [indoor navigation](https://github.com/mcllsti/Indoor-Positioning-WiFi-Android)
+ - [calci-android](https://github.com/IEEE-VIT/calci-android)
+ - [android-vision](https://github.com/googlesamples/android-vision)
+ 
 ### Java
 
 ([all Java projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=Java&l=))
