@@ -122,6 +122,7 @@ Here you find projects that were made especially for hacktoberfest.
 
 - [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
+- [learn4haskell](https://github.com/kowainik/learn4haskell) - Course that would get you into the Haskell Functional Programming world in just 4 Pull Requests.
 
 ## Companies participating in Hacktoberfest
 
