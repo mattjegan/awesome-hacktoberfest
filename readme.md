@@ -35,7 +35,7 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 - [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
 
-## Projects friendly to Hacktoberfest 1st time contributors
+## Project friendly to Hacktoberfest 1st time contributors
 
 You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly. To learn more about how to make contributios visit [First Timers Only](https://firsttimersonly.com).
 
@@ -123,7 +123,7 @@ Here you find projects that were made especially for hacktoberfest.
 - [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 
-## Companies participating in Hacktoberfest
+## Companies participating at Hacktoberfest
 
 - [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
 - [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
