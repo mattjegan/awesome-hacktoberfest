@@ -37,7 +37,7 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
-You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly. To learn more about how to make contributios visit [First Timers Only](https://firsttimersonly.com).
+You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly. To learn more about how to make contributions visit [First Timers Only](https://firsttimersonly.com).
 
 In case you are an experienced developer, projects have prepared special issues for hacktoberfest.
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
