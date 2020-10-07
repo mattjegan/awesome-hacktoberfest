@@ -3,18 +3,13 @@
 > [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
 
-[![Hacktoberfest 2019 logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)](https://benbarth.github.io/hacktoberfest-swag/)
+[![Hacktoberfest 2020 logo](https://hacktoberfest-swag.com/assets/hacktoberfest-logo.png)](https://hacktoberfest.digitalocean.com/)
 
 ## Official website for registration and tips on how to get started
 
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
-- [Hacktoberfest Tutorial](https://youtu.be/0mjJS1Y8wrI) - Introduction to Hacktoberfest
-- [Hacktoberfest Swag List](https://benbarth.github.io/hacktoberfest-swag/) - List of all goodies given away by companies
-
-## Blogs entries
-
-- [Digitial Ocean's Blog Entry for Hacktoberfest 2019](https://blog.digitalocean.com/hacktoberfest-is-back-for-year-six/) - provides background information and explains **Participating for the right reasons**
-- [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33) - Article on the basics of Hacktoberfest
+- [Hacktoberfest Tutorial](https://www.youtube.com/watch?v=mll-akn8Gqs) - Introduction to Hacktoberfest
+- [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) - List of all goodies given away by companies
 
 ## Finding issues
 
