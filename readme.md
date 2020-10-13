@@ -18,7 +18,7 @@ Here, you find possibilities to ease the search.
 
 ### Search engines
 
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
+- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest , also allows filtering by language
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 
 ### Using labels
@@ -34,7 +34,7 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 
 You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly. To learn more about how to make contributions visit [First Timers Only](https://firsttimersonly.com).
 
-In case you are an experienced developer, projects have prepared special issues for hacktoberfest.
+In case you are an experienced developer , projects have prepared special issues for hacktoberfest.
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
 They also try to be very welcoming for 1st-time contributors.
 
