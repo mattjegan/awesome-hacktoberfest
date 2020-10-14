@@ -20,7 +20,7 @@ Here, you find possibilities to ease the search.
 
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
-
+- [Good First Issues](https://goodfirstissues.com/) - lists some easy hactoberfest beginner issues
 ### Using labels
 
 With these labels, one finds issues to level up his skills in hacktoberfest.
