@@ -20,6 +20,8 @@ Here, you find possibilities to ease the search.
 
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
+- [First Timers Only](https://www.firsttimersonly.com/) - beginner-friendly projects with some easy but interesting issues
+
 
 ### Using labels
 
