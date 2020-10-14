@@ -129,7 +129,7 @@ Here you find projects that were made especially for hacktoberfest.
 - [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
 - [Grafana Labs](https://github.com/grafana/grafana)
 - [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
-- [Jetbrains](https://www.jetbrains.com/lp/hacktoberfest-2020/)
+- [JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/)
 - [MayaData](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
