@@ -67,6 +67,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
+- [letra-extension](https://chrome.google.com/webstore/detail/letra/cjodkkjokggcaeacdhjliobekbnnmoio) - Passively learn a new language every time you open a new tab. [[Source]](https://github.com/jayehernandez/letra-extension)
 
 ### Java
 
