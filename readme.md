@@ -5,6 +5,8 @@
 
 [![Hacktoberfest 2020 logo](https://hacktoberfest-swag.com/assets/hacktoberfest-logo.png)](https://hacktoberfest.digitalocean.com/)
 
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!
+
 ## Official website for registration and tips on how to get started
 
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
