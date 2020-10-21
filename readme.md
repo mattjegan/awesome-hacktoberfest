@@ -30,17 +30,16 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 - [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
 
-## Projects friendly to Hacktoberfest 1st time contributors
+## Other awesome lists
 
-You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly.
-To learn more about how to make contributions visit [First Timers Only](https://www.firsttimersonly.com/).
+- [Awesome Hacktoberfest 2020](https://github.com/OtacilioN/awesome-hacktoberfest-2020) - lists awesome projects categorized for beginners and advanced coders.
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
+
+## Projects friendly to Hacktoberfest 1st time contributors
 
 In case you are an experienced developer, projects have prepared special issues for hacktoberfest.
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
 They also try to be very welcoming for 1st-time contributors.
-
-### Any Project
-[Create Pull request here on any projects you have made](https://github.com/vijaygupta18/Hacktober-2020)
 
 ### CSS
 
@@ -144,6 +143,7 @@ Here you find projects that were made especially for hacktoberfest.
 
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
+- [First Timers Only](https://www.firsttimersonly.com/) - page highlighting awesome facts on first-time contributions
 - [Reading List](https://github.com/mattjegan/reading-list)
 
 ## Contribute
