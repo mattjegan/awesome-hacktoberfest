@@ -19,6 +19,7 @@ Here, you find possibilities to ease the search.
 ### Search engines
 
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
+- [Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app/) - easy way to find issues to work on during hacktoberfest, including the ability to filter by language and least comments.
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 
 ### Using labels
