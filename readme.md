@@ -66,8 +66,9 @@ They also try to be very welcoming for 1st-time contributors.
 ([all JavaScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
+- [letra-extension](https://github.com/jayehernandez/letra-extension)
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
-- [letra-extension](https://chrome.google.com/webstore/detail/letra/cjodkkjokggcaeacdhjliobekbnnmoio) - Passively learn a new language every time you open a new tab. [[Source]](https://github.com/jayehernandez/letra-extension)
+
 
 ### Java
 
