@@ -124,11 +124,13 @@ Here you find projects that were made especially for hacktoberfest.
 - [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
 - [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
 - [Aqua Security](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+- [Automattic](https://github.com/Automattic)
 - [Circle CI](https://circleci-public.github.io/hacktoberfest/#/)
 - [Coding Blocks](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
 - [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
 - [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
 - [Grafana Labs](https://github.com/grafana/grafana)
+- [Hashicorp](https://github.com/hashicorp)
 - [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
 - [JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/) - JetBrains offers a wide range of developer IDEs. For Hacktoberfest, it makes them available for free for open source contributors independently of the contributor being a permanent contributor to an open source project (which is covered by their Free Licenses Program).
 - [MayaData](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
