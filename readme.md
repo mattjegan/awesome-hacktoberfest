@@ -158,4 +158,4 @@ Hacktoberfest is there to level up coding skills, not the capability to submit a
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Matthew Egan has waived all copyright and related or neighbouring rights to this work.
+To the extent possible under law, Matthew Egan has waived all the copyright and related or neighbouring rights to this work.
