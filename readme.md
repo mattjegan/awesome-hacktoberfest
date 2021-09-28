@@ -61,6 +61,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [league_app](https://github.com/connorphee/league_app)
 
+
 ### JavaScript
 
 ([all JavaScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
@@ -68,6 +69,8 @@ They also try to be very welcoming for 1st-time contributors.
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 - [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
+- [egnature](https://github.com/LoginRadius/egnature)
+- [awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages/labels/Hacktoberfest)
 
 ### Java
 
@@ -136,6 +139,7 @@ Here you find projects that were made especially for hacktoberfest.
 - [MayaData](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
+- [LoginRadius](https://www.loginradius.com)
 
 ## Nonprofits participating in Hacktoberfest
 
@@ -148,6 +152,7 @@ Here you find projects that were made especially for hacktoberfest.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 - [First Timers Only](https://www.firsttimersonly.com/) - page highlighting awesome facts on first-time contributions
 - [Reading List](https://github.com/mattjegan/reading-list)
+- [awesome-identity-management](https://github.com/abhir9/awesome-identity-management)
 
 ## Contribute
 
