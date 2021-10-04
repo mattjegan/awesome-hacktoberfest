@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+#define ll long long int
+#define loop(n) for(int i=0;i<n;i++)
+#define br() cout<<"\n"
+#define print(n) cout<<n<<"\n";
+#define matarani_s_blessing ios_base::sync_with_stdio(false); cin.tie(NULL);
+using namespace std;
+
+void jaiShreeRam(){
+
+    ll n,p,x,y; cin>>n>>p>>x>>y;
+    p-=1;
+    ll ip;
+
+    ll sum = 0;
+    for(int i=0;i<n;i++)
+    {
+        cin>>ip;
+        if(i<=p)
+        if(ip == 1) sum+=y;
+        else sum+=x;
+    }
+
+    cout<<sum<<"\n";
+
+}
+
+int main() {
+
+    //matarani_s_blessing;
+
+	ll t; cin>>t;
+	while(t--)
+	{
+	    jaiShreeRam();
+	}
+	return 0;
+}

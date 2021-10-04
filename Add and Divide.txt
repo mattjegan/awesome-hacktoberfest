@@ -1,0 +1,45 @@
+#include <bits/stdc++.h>
+#define ll long long int
+using namespace std;
+
+
+void jaiShreeRam(){
+    
+    
+    ll a,b;
+    cin>>a>>b;
+    
+    while(1)
+    {
+        //cout<<a<<" ";
+        ll x = __gcd(a,b);
+        a = a/x;
+        if(a == 1) 
+        {
+            cout<<"YES\n";
+            return;
+        }
+        
+        if(x == 1) 
+        {
+            cout<<"NO\n";
+            return;
+        }
+    }
+    
+    
+}
+
+int main() {
+    
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
+	ll t;
+	cin>>t;
+	while(t--)
+	{
+	    jaiShreeRam();
+	}
+	return 0;
+}

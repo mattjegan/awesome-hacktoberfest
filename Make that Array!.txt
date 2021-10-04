@@ -1,0 +1,41 @@
+#include <bits/stdc++.h>
+#define ll long long int
+using namespace std;
+
+
+void jaiShreeRam(){
+    
+    ll n; cin>>n;
+    
+    ll A = 0,B = 0;
+    ll num;
+    
+    for(int i=1;i<=n;i++)
+    {
+        cin>>num;
+        A+=(i * num);
+    }
+    
+    for(int i=1;i<=n;i++)
+    {
+        cin>>num;
+        B+=(i * num);
+    }
+    
+    cout<<B-A<<"\n";
+    
+}
+
+int main() {
+    
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
+	ll t;
+	cin>>t;
+	while(t--)
+	{
+	    jaiShreeRam();
+	}
+	return 0;
+}

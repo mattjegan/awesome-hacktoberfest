@@ -1,0 +1,34 @@
+#include <bits/stdc++.h>
+#define ll long long int
+using namespace std;
+
+
+void jaiShreeRam(){
+    
+    ll t,f,a,c,ax,cy; 
+    cin>>t>>f>>a>>c>>ax>>cy;
+    
+    ll ta = a + (ax * f);
+    ll tc = c + (cy * f);
+    
+    
+    ll cnt = 0;
+    
+    if(ta<=tc) cout<<t/ta<<"\n";
+    else cout<<t/tc<<"\n";
+    
+}
+
+int main() {
+    
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
+	ll t;
+	cin>>t;
+	while(t--)
+	{
+	    jaiShreeRam();
+	}
+	return 0;
+}
