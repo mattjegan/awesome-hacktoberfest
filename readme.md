@@ -35,6 +35,7 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 
 - [Awesome Hacktoberfest 2020](https://github.com/OtacilioN/awesome-hacktoberfest-2020) - lists awesome projects categorized for beginners and advanced coders.
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
+- [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 Projects on Github.
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
