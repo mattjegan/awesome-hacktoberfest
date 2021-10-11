@@ -103,6 +103,7 @@ They also try to be very welcoming for 1st-time contributors.
 ### React Native
 
 - [Hacktoberfest Tracker App](https://hacktoberfestchecker.jenko.me/) - Keep track of your and your friends' hacktoberfest progress. [[Source](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)]
+- [Hey Linda](https://github.com/heylinda/heylinda-app) - A free forever meditation app built with React Native.
 
 ### SVG
 
