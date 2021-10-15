@@ -92,6 +92,7 @@ They also try to be very welcoming for 1st-time contributors.
 - [Ralph](https://github.com/allegro/ralph)
 - [Tipboard](https://github.com/allegro/tipboard)
 - [wtfuzz](https://github.com/mattjegan/wtfuzz)
+- [Python](https://github.com/TheAlgorithms/Python)
 
 ### React
 
