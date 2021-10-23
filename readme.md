@@ -48,6 +48,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [shopee_design](https://github.com/bluetch/shopee_design)
 - [crystal-ann](https://github.com/crystal-community/crystal-ann)
+- [List extender](https://github.com/JLambertazzo/ListExtender)
 
 ### Dart / Flutter
 
