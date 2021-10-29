@@ -97,6 +97,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all React projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=React&l=))
 
+- [Blitz](https://github.com/blitz-js/blitz) - Blitz is a batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL.
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Gatsby is a free and open source framework for building blazing fast static websites.
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
 
