@@ -125,6 +125,7 @@ Here you find projects that were made especially for hacktoberfest.
 ## Companies participating in Hacktoberfest
 
 - [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
+- [Amplication] (https://www.github.com/amplication/amplication)
 - [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
 - [Aqua Security](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 - [Circle CI](https://circleci-public.github.io/hacktoberfest/#/)
