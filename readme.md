@@ -135,6 +135,7 @@ Here you find projects that were made especially for hacktoberfest.
 - [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
 - [JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/) - JetBrains offers a wide range of developer IDEs. For Hacktoberfest, it makes them available for free for open source contributors independently of the contributor being a permanent contributor to an open source project (which is covered by their Free Licenses Program).
 - [MayaData](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
+- [Medusa Hackathon](https://medusajs.com/blog/medusa-hackathon/)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
 
