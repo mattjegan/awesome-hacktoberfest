@@ -31,6 +31,7 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 - [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
 - [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
+- [easy](https://github.com/search?q=label%3Aeasy)
 
 ## Other awesome lists
 
