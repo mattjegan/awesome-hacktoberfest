@@ -143,6 +143,7 @@ Here you find projects that were made especially for hacktoberfest.
 - [Medusa Hackathon](https://medusajs.com/blog/medusa-hackathon/)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
+- [Globol](https://hacktoberfest.globo.com/)
 
 ## Nonprofits participating in Hacktoberfest
 
