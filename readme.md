@@ -21,6 +21,7 @@ Here, you find possibilities to ease the search.
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 - [Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app/) - easy way to find issues to work on during hacktoberfest, including the ability to filter by language and least comments.
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
+- [Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - A website to find hacktoberfest projects with many filter/sort options
 
 ### Using labels
 
@@ -30,6 +31,7 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 - [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
 - [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
+- [easy](https://github.com/search?q=label%3Aeasy)
 
 ## Other awesome lists
 
@@ -97,12 +99,14 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all React projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=React&l=))
 
+- [Blitz](https://github.com/blitz-js/blitz) - Blitz is a batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL.
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Gatsby is a free and open source framework for building blazing fast static websites.
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
 
 ### React Native
 
 - [Hacktoberfest Tracker App](https://hacktoberfestchecker.jenko.me/) - Keep track of your and your friends' hacktoberfest progress. [[Source](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)]
+- [Hey Linda](https://github.com/heylinda/heylinda-app) - A free forever meditation app built with React Native.
 
 ### SVG
 
@@ -124,6 +128,7 @@ Here you find projects that were made especially for hacktoberfest.
 ## Companies participating in Hacktoberfest
 
 - [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
+- [Amplication] (https://www.github.com/amplication/amplication)
 - [Appsmith](https://hacktoberfest.appsmith.com/)
 - [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
 - [Aqua Security](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
@@ -135,6 +140,7 @@ Here you find projects that were made especially for hacktoberfest.
 - [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
 - [JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/) - JetBrains offers a wide range of developer IDEs. For Hacktoberfest, it makes them available for free for open source contributors independently of the contributor being a permanent contributor to an open source project (which is covered by their Free Licenses Program).
 - [MayaData](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
+- [Medusa Hackathon](https://medusajs.com/blog/medusa-hackathon/)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
 
