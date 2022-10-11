@@ -1,9 +1,11 @@
 # Awesome Hacktoberfest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
+> [Hacktoberfest](https://hacktoberfest.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
 
-[![Hacktoberfest 2020 logo](https://hacktoberfest-swag.com/assets/hacktoberfest-logo.png)](https://hacktoberfest.digitalocean.com/)
+https://hacktoberfest.com/events/
+
+**The awesomelist of Hacktoberfest 2022 is available at <https://github.com/OtacilioN/awesome-hacktoberfest-2022#awesome-hacktoberfest-2022->**
 
 ## Official website for registration and tips on how to get started
 
@@ -16,29 +18,19 @@
 Finding a good issue to work on takes time.
 Here, you find possibilities to ease the search.
 
-### Search engines
-
-- [Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - Offers filtering by language. The best thing is that the projects are initially sorted by GitHub stars.
-
-Other possibilities:
-
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
-- [Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app/) - easy way to find issues to work on during hacktoberfest, including the ability to filter by language and least comments.
-- [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
-
-### Using labels
-
-With these labels, one finds issues to level up his skills in hacktoberfest.
-
-- [hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest
-- [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
-- [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
-- [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
-- [easy](https://github.com/search?q=label%3Aeasy)
+- Use [Search Engine Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - Offers filtering by language. The best thing is that the projects are initially sorted by GitHub stars.
+- Use [Search Engine Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
+- Use [Search Engine Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app/) - easy way to find issues to work on during hacktoberfest, including the ability to filter by language and least comments.
+- Use [Search Engine Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
+- [Search for label hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest
+- [Search for label first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
+- [Search for label for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
+- [Search for label good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
+- [Search for label easy](https://github.com/search?q=label%3Aeasy)
 
 ## Other awesome lists
 
-- [Awesome Hacktoberfest 2020](https://github.com/OtacilioN/awesome-hacktoberfest-2020) - lists awesome projects categorized for beginners and advanced coders.
+- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
 - [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 Projects on Github.
 
