@@ -18,10 +18,13 @@ Here, you find possibilities to ease the search.
 
 ### Search engines
 
+- [Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - Offers filtering by language. The best thing is that the projects are initially sorted by GitHub stars.
+
+Other possibilities:
+
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 - [Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app/) - easy way to find issues to work on during hacktoberfest, including the ability to filter by language and least comments.
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
-- [Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - A website to find hacktoberfest projects with many filter/sort options
 
 ### Using labels
 
