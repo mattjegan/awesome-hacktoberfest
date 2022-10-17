@@ -52,6 +52,10 @@ They also try to be very welcoming for 1st-time contributors.
 ([all dart projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=Dart&l=))
 
 - [The Public Transport](https://github.com/thepublictransport/thepublictransport-app)
+- [Playtify](https://github.com/IEEE-VIT/playtify)
+
+### Kotlin
+- [Coint](https://github.com/IEEE-VIT/Coint)
 
 ### HTML
 
@@ -66,12 +70,16 @@ They also try to be very welcoming for 1st-time contributors.
 - [jest-extended](https://github.com/mattphillips/jest-extended)
 - [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
+- [RazorType](https://github.com/IEEE-VIT/RazorType) - A hacktoberfest React app of a fun type speed illustrator.
 
 ### Java
 
 ([all Java projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=Java&l=))
 
 - [JabRef](https://www.jabref.org/hacktoberfest/2019.html)
+
+### GOlang
+- [pykitzoid](https://github.com/IEEE-VIT/pykitzoid) - This is a repository containing a package coded in Go language, with the motive of providing ML support.
 
 ### PHP
 
@@ -90,6 +98,7 @@ They also try to be very welcoming for 1st-time contributors.
 - [Ralph](https://github.com/allegro/ralph)
 - [Tipboard](https://github.com/allegro/tipboard)
 - [wtfuzz](https://github.com/mattjegan/wtfuzz)
+- [Spectra](https://github.com/IEEE-VIT/spectra)
 
 ### React
 
