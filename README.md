@@ -44,7 +44,6 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all CSS projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=CSS))
 
-- [shopee_design](https://github.com/bluetch/shopee_design)
 - [crystal-ann](https://github.com/crystal-community/crystal-ann)
 
 ### Dart / Flutter
@@ -56,8 +55,6 @@ They also try to be very welcoming for 1st-time contributors.
 ### HTML
 
 ([all HTML projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=HTML))
-
-- [league_app](https://github.com/connorphee/league_app)
 
 ### JavaScript
 
