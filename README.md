@@ -1,17 +1,13 @@
-# Awesome Hacktoberfest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hacktoberfest [![Awesome](https://camo.githubusercontent.com/5d0405ddcbeac98b5806832e6254a0a102e09b47637c2ddec9a8094cb2257b31/68747470733a2f2f617765736f6d652e72652f62616467652d666c6174322e737667)](https://github.com/sindresorhus/awesome)
 
 > [Hacktoberfest](https://hacktoberfest.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
 
-https://hacktoberfest.com/events/
-
-**The awesomelist of Hacktoberfest 2022 is available at <https://github.com/OtacilioN/awesome-hacktoberfest-2022#awesome-hacktoberfest-2022->**
-
 ## Official website for registration and tips on how to get started
 
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
-- [Hacktoberfest Tutorial](https://www.youtube.com/watch?v=mll-akn8Gqs) - Introduction to Hacktoberfest
-- [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) - List of all goodies given away by companies
+- [Hacktoberfest Tutorial](https://www.youtube.com/watch?v=mll-akn8Gqs) - Introduction to Hacktoberfest.
+- [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) - List of all goodies given away by companies.
 
 ## Finding issues
 
@@ -20,7 +16,6 @@ Here, you find possibilities to ease the search.
 
 - Use [Search Engine Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - Offers filtering by language. The best thing is that the projects are initially sorted by GitHub stars.
 - Use [Search Engine Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
-- Use [Search Engine Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app/) - easy way to find issues to work on during hacktoberfest, including the ability to filter by language and least comments.
 - Use [Search Engine Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 - [Search for label hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest
 - [Search for label first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
@@ -28,11 +23,9 @@ Here, you find possibilities to ease the search.
 - [Search for label good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
 - [Search for label easy](https://github.com/search?q=label%3Aeasy)
 
-## Other awesome lists
+## Events
 
-- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
-- [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 Projects on Github.
+- <https://hacktoberfest.com/events/> - List of all hacktoberfest events
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
@@ -94,11 +87,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [Blitz](https://github.com/blitz-js/blitz) - Blitz is a batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL.
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Gatsby is a free and open source framework for building blazing fast static websites.
-- [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
-
-### React Native
-
-- [Hacktoberfest Tracker App](https://hacktoberfestchecker.jenko.me/) - Keep track of your and your friends' hacktoberfest progress. [[Source](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)]
+- [Hacktoberfest Tracker App]](https://hacktoberfestchecker.jenko.me/) - Check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)].
 - [Hey Linda](https://github.com/heylinda/heylinda-app) - A free forever meditation app built with React Native.
 
 ### SVG
@@ -110,13 +99,6 @@ They also try to be very welcoming for 1st-time contributors.
 ([all TypeScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ATypescript&type=Issues&ref=advsearch&l=Typescript))
 
 - [LitmusChaos](https://github.com/litmuschaos/litmus/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
-
-## Projects made for Hacktoberfest
-
-Here you find projects that were made especially for hacktoberfest.
-
-- [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 
 ## Companies participating in Hacktoberfest
 
@@ -149,6 +131,12 @@ Here you find projects that were made especially for hacktoberfest.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 - [First Timers Only](https://www.firsttimersonly.com/) - page highlighting awesome facts on first-time contributions
 - [Reading List](https://github.com/mattjegan/reading-list)
+
+## Other awesome lists
+
+- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
+- [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 Projects on GitHub.
 
 ## Contribute
 
