@@ -5,25 +5,25 @@
 
 ## Contents
 
-* [Official website for registration and tips on how to get started](#official-website-for-registration-and-tips-on-how-to-get-started)
-* [Finding issues](#finding-issues)
-* [Events](#events)
-* [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
-  * [CSS](#css)
-  * [Dart / Flutter](#dart--flutter)
-  * [HTML](#html)
-  * [JavaScript](#javascript)
-  * [Java](#java)
-  * [PHP](#php)
-  * [Python](#python)
-  * [React](#react)
-  * [SVG](#svg)
-  * [TypeScript](#typescript)
-* [Companies participating in Hacktoberfest](#companies-participating-in-hacktoberfest)
-* [Nonprofits participating in Hacktoberfest](#nonprofits-participating-in-hacktoberfest)
-* [Misc resources](#misc-resources)
-* [Other awesome lists](#other-awesome-lists)
-* [Contribute](#contribute)
+- [Official website for registration and tips on how to get started](#official-website-for-registration-and-tips-on-how-to-get-started)
+- [Finding issues](#finding-issues)
+- [Events](#events)
+- [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
+  - [CSS](#css)
+  - [Dart / Flutter](#dart--flutter)
+  - [HTML](#html)
+  - [JavaScript](#javascript)
+  - [Java](#java)
+  - [PHP](#php)
+  - [Python](#python)
+  - [React](#react)
+  - [SVG](#svg)
+  - [TypeScript](#typescript)
+- [Companies participating in Hacktoberfest](#companies-participating-in-hacktoberfest)
+- [Nonprofits participating in Hacktoberfest](#nonprofits-participating-in-hacktoberfest)
+- [Misc resources](#misc-resources)
+- [Other awesome lists](#other-awesome-lists)
+- [Contribute](#contribute)
 
 ## Official website for registration and tips on how to get started
 
@@ -97,7 +97,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [django-gamification](https://github.com/mattjegan/django-gamification)
 - [howlong](https://github.com/mattjegan/HowLong)
-- [python-ds](https://github.com/prabhupant/python-ds) - datastructures implemented in Python.
+- [python-ds](https://github.com/prabhupant/python-ds) - Datastructures implemented in Python.
 - [quick-net](https://github.com/Zwork101/quick-net)
 - [Ralph](https://github.com/allegro/ralph)
 - [Tipboard](https://github.com/allegro/tipboard)
@@ -149,15 +149,15 @@ They also try to be very welcoming for 1st-time contributors.
 
 ## Misc resources
 
-- [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
+- [AwesomeSearch](https://awesomelists.top/) - Search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
-- [First Timers Only](https://www.firsttimersonly.com/) - page highlighting awesome facts on first-time contributions.
+- [First Timers Only](https://www.firsttimersonly.com/) - Page highlighting awesome facts on first-time contributions.
 - [Reading List](https://github.com/mattjegan/reading-list)
 
 ## Other awesome lists
 
-- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022.
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
+- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - Lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022.
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - Lists projects which are beginner-friendly.
 - [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 projects on GitHub.
 
 ## Contribute
