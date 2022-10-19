@@ -1,17 +1,35 @@
-# Awesome Hacktoberfest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hacktoberfest [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [Hacktoberfest](https://hacktoberfest.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
 
-https://hacktoberfest.com/events/
+## Contents
 
-**The awesomelist of Hacktoberfest 2022 is available at <https://github.com/OtacilioN/awesome-hacktoberfest-2022#awesome-hacktoberfest-2022->**
+- [Official website for registration and tips on how to get started](#official-website-for-registration-and-tips-on-how-to-get-started)
+- [Finding issues](#finding-issues)
+- [Events](#events)
+- [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
+  - [CSS](#css)
+  - [Dart / Flutter](#dart--flutter)
+  - [HTML](#html)
+  - [JavaScript](#javascript)
+  - [Java](#java)
+  - [PHP](#php)
+  - [Python](#python)
+  - [React](#react)
+  - [SVG](#svg)
+  - [TypeScript](#typescript)
+- [Companies participating in Hacktoberfest](#companies-participating-in-hacktoberfest)
+- [Nonprofits participating in Hacktoberfest](#nonprofits-participating-in-hacktoberfest)
+- [Misc resources](#misc-resources)
+- [Other awesome lists](#other-awesome-lists)
+- [Contribute](#contribute)
 
 ## Official website for registration and tips on how to get started
 
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
-- [Hacktoberfest Tutorial](https://www.youtube.com/watch?v=mll-akn8Gqs) - Introduction to Hacktoberfest
-- [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) - List of all goodies given away by companies
+- [Hacktoberfest Tutorial](https://www.youtube.com/watch?v=mll-akn8Gqs) - Introduction to Hacktoberfest.
+- [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) - List of all goodies given away by companies.
 
 ## Finding issues
 
@@ -20,19 +38,16 @@ Here, you find possibilities to ease the search.
 
 - Use [Search Engine Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - Offers filtering by language. The best thing is that the projects are initially sorted by GitHub stars.
 - Use [Search Engine Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
-- Use [Search Engine Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app/) - easy way to find issues to work on during hacktoberfest, including the ability to filter by language and least comments.
 - Use [Search Engine Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
-- [Search for label hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest
+- [Search for label hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - Label especially created for hacktoberfest.
 - [Search for label first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
 - [Search for label for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [Search for label good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
 - [Search for label easy](https://github.com/search?q=label%3Aeasy)
 
-## Other awesome lists
+## Events
 
-- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
-- [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 Projects on Github.
+- <https://hacktoberfest.com/events/> - List of all hacktoberfest events.
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
@@ -61,7 +76,7 @@ They also try to be very welcoming for 1st-time contributors.
 ([all JavaScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
-- [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab
+- [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab.
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
 
 ### Java
@@ -82,7 +97,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [django-gamification](https://github.com/mattjegan/django-gamification)
 - [howlong](https://github.com/mattjegan/HowLong)
-- [python-ds](https://github.com/prabhupant/python-ds) - datastructures implemented in PYthon
+- [python-ds](https://github.com/prabhupant/python-ds) - Datastructures implemented in Python.
 - [quick-net](https://github.com/Zwork101/quick-net)
 - [Ralph](https://github.com/allegro/ralph)
 - [Tipboard](https://github.com/allegro/tipboard)
@@ -94,11 +109,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [Blitz](https://github.com/blitz-js/blitz) - Blitz is a batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL.
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Gatsby is a free and open source framework for building blazing fast static websites.
-- [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
-
-### React Native
-
-- [Hacktoberfest Tracker App](https://hacktoberfestchecker.jenko.me/) - Keep track of your and your friends' hacktoberfest progress. [[Source](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)]
+- [Hacktoberfest Tracker App](https://hacktoberfestchecker.jenko.me/) - Check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)].
 - [Hey Linda](https://github.com/heylinda/heylinda-app) - A free forever meditation app built with React Native.
 
 ### SVG
@@ -111,13 +122,6 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [LitmusChaos](https://github.com/litmuschaos/litmus/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
 
-## Projects made for Hacktoberfest
-
-Here you find projects that were made especially for hacktoberfest.
-
-- [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
-- [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
-
 ## Companies participating in Hacktoberfest
 
 - [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
@@ -129,14 +133,13 @@ Here you find projects that were made especially for hacktoberfest.
 - [Coding Blocks](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
 - [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
 - [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
+- [Globol](https://hacktoberfest.globo.com/)
 - [Grafana Labs](https://github.com/grafana/grafana)
 - [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
 - [JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/) - JetBrains offers a wide range of developer IDEs. For Hacktoberfest, it makes them available for free for open source contributors independently of the contributor being a permanent contributor to an open source project (which is covered by their Free Licenses Program).
 - [MayaData](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
 - [Medusa Hackathon](https://medusajs.com/blog/medusa-hackathon/)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
-- [Source{d}](https://go.sourced.tech/hacktoberfest)
-- [Globol](https://hacktoberfest.globo.com/)
 
 ## Nonprofits participating in Hacktoberfest
 
@@ -145,10 +148,16 @@ Here you find projects that were made especially for hacktoberfest.
 
 ## Misc resources
 
-- [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
+- [AwesomeSearch](https://awesomelists.top/) - Search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
-- [First Timers Only](https://www.firsttimersonly.com/) - page highlighting awesome facts on first-time contributions
+- [First Timers Only](https://www.firsttimersonly.com/) - Page highlighting awesome facts on first-time contributions.
 - [Reading List](https://github.com/mattjegan/reading-list)
+
+## Other awesome lists
+
+- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - Lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022.
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - Lists projects which are beginner-friendly.
+- [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 projects on GitHub.
 
 ## Contribute
 
@@ -156,9 +165,3 @@ Contributions are welcome!
 Please read the [contribution guidelines](contributing.md) first.
 Especially have the motto "quality over quantity" in mind.
 Hacktoberfest is there to level up coding skills, not the capability to submit arbitrary files to arbitrary repositories.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Matthew Egan has waived all copyright and related or neighbouring rights to this work.
