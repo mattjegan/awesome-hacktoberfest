@@ -1,4 +1,4 @@
-# Awesome Hacktoberfest [![Awesome](https://camo.githubusercontent.com/5d0405ddcbeac98b5806832e6254a0a102e09b47637c2ddec9a8094cb2257b31/68747470733a2f2f617765736f6d652e72652f62616467652d666c6174322e737667)](https://github.com/sindresorhus/awesome)
+# Awesome Hacktoberfest [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [Hacktoberfest](https://hacktoberfest.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
@@ -17,7 +17,7 @@ Here, you find possibilities to ease the search.
 - Use [Search Engine Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - Offers filtering by language. The best thing is that the projects are initially sorted by GitHub stars.
 - Use [Search Engine Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 - Use [Search Engine Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
-- [Search for label hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest
+- [Search for label hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - label especially created for hacktoberfest.
 - [Search for label first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
 - [Search for label for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [Search for label good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
@@ -25,7 +25,7 @@ Here, you find possibilities to ease the search.
 
 ## Events
 
-- <https://hacktoberfest.com/events/> - List of all hacktoberfest events
+- <https://hacktoberfest.com/events/> - List of all hacktoberfest events.
 
 ## Projects friendly to Hacktoberfest 1st time contributors
 
@@ -54,7 +54,7 @@ They also try to be very welcoming for 1st-time contributors.
 ([all JavaScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
-- [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab
+- [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab.
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
 
 ### Java
@@ -75,7 +75,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [django-gamification](https://github.com/mattjegan/django-gamification)
 - [howlong](https://github.com/mattjegan/HowLong)
-- [python-ds](https://github.com/prabhupant/python-ds) - datastructures implemented in PYthon
+- [python-ds](https://github.com/prabhupant/python-ds) - datastructures implemented in Python.
 - [quick-net](https://github.com/Zwork101/quick-net)
 - [Ralph](https://github.com/allegro/ralph)
 - [Tipboard](https://github.com/allegro/tipboard)
@@ -87,7 +87,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [Blitz](https://github.com/blitz-js/blitz) - Blitz is a batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL.
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Gatsby is a free and open source framework for building blazing fast static websites.
-- [Hacktoberfest Tracker App]](https://hacktoberfestchecker.jenko.me/) - Check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)].
+- [Hacktoberfest Tracker App](https://hacktoberfestchecker.jenko.me/) - Check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)].
 - [Hey Linda](https://github.com/heylinda/heylinda-app) - A free forever meditation app built with React Native.
 
 ### SVG
@@ -129,14 +129,14 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
-- [First Timers Only](https://www.firsttimersonly.com/) - page highlighting awesome facts on first-time contributions
+- [First Timers Only](https://www.firsttimersonly.com/) - page highlighting awesome facts on first-time contributions.
 - [Reading List](https://github.com/mattjegan/reading-list)
 
 ## Other awesome lists
 
-- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022
+- [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022.
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
-- [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 Projects on GitHub.
+- [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 projects on GitHub.
 
 ## Contribute
 
@@ -144,9 +144,3 @@ Contributions are welcome!
 Please read the [contribution guidelines](contributing.md) first.
 Especially have the motto "quality over quantity" in mind.
 Hacktoberfest is there to level up coding skills, not the capability to submit arbitrary files to arbitrary repositories.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Matthew Egan has waived all copyright and related or neighbouring rights to this work.
