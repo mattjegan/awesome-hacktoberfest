@@ -3,6 +3,28 @@
 > [Hacktoberfest](https://hacktoberfest.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
 
+## Contents
+
+* [Official website for registration and tips on how to get started](#official-website-for-registration-and-tips-on-how-to-get-started)
+* [Finding issues](#finding-issues)
+* [Events](#events)
+* [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
+  * [CSS](#css)
+  * [Dart / Flutter](#dart--flutter)
+  * [HTML](#html)
+  * [JavaScript](#javascript)
+  * [Java](#java)
+  * [PHP](#php)
+  * [Python](#python)
+  * [React](#react)
+  * [SVG](#svg)
+  * [TypeScript](#typescript)
+* [Companies participating in Hacktoberfest](#companies-participating-in-hacktoberfest)
+* [Nonprofits participating in Hacktoberfest](#nonprofits-participating-in-hacktoberfest)
+* [Misc resources](#misc-resources)
+* [Other awesome lists](#other-awesome-lists)
+* [Contribute](#contribute)
+
 ## Official website for registration and tips on how to get started
 
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
