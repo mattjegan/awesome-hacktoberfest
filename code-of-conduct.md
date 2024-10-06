@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing or otherwise, unacceptable behaviour may be
-reported by contacting the project team at matthewj.egan@hotmail.com. All
+reported by contacting the project team at <matthewj.egan@hotmail.com>. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality concerning the reporter of an incident.
