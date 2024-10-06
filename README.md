@@ -71,9 +71,9 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all Go projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3Ago&type=Issues&ref=advsearch&l=Go))
 
-- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer.
 - [TheAlgorithms](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go, following best practices.
 
 ### HTML
