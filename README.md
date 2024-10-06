@@ -11,6 +11,7 @@
 - [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
   - [CSS](#css)
   - [Dart / Flutter](#dart--flutter)
+  - [Go](#go)
   - [HTML](#html)
   - [JavaScript](#javascript)
   - [Java](#java)
@@ -19,7 +20,6 @@
   - [React](#react)
   - [SVG](#svg)
   - [TypeScript](#typescript)
-  - [Go](#go)
 - [Companies participating in Hacktoberfest](#companies-participating-in-hacktoberfest)
 - [Nonprofits participating in Hacktoberfest](#nonprofits-participating-in-hacktoberfest)
 - [Misc resources](#misc-resources)
@@ -66,6 +66,15 @@ They also try to be very welcoming for 1st-time contributors.
 ([all dart projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=Dart&l=))
 
 - [The Public Transport](https://github.com/thepublictransport/thepublictransport-app)
+
+### Go
+
+([all Go projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3Ago&type=Issues&ref=advsearch&l=Go))
+
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [TheAlgorithms](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go, following best practices.
 
 ### HTML
 
@@ -118,16 +127,6 @@ They also try to be very welcoming for 1st-time contributors.
 ([all TypeScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ATypescript&type=Issues&ref=advsearch&l=Typescript))
 
 - [LitmusChaos](https://github.com/litmuschaos/litmus/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
-
-
-### Go
-
-([all Go projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3Ago&type=Issues&ref=advsearch&l=Go))
-
-- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software 
-- [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer 
-- [TheAlgorithms](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go, following best practices. 
 
 ## Companies participating in Hacktoberfest
 
