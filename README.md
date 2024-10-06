@@ -37,7 +37,6 @@ Finding a good issue to work on takes time.
 Here, you find possibilities to ease the search.
 
 - Use [Search Engine Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - Offers filtering by language. The best thing is that the projects are initially sorted by GitHub stars.
-- Use [Search Engine Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 - Use [Search Engine Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 - [Search for label hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - Label especially created for hacktoberfest.
 - [Search for label first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
@@ -83,8 +82,6 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all Java projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=Java&l=))
 
-- [JabRef](https://www.jabref.org/hacktoberfest/2019.html)
-
 ### PHP
 
 ([all PHP projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3APHP&type=Issues&ref=advsearch&l=&l=))
@@ -109,7 +106,6 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [Blitz](https://github.com/blitz-js/blitz) - Blitz is a batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL.
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Gatsby is a free and open source framework for building blazing fast static websites.
-- [Hacktoberfest Tracker App](https://hacktoberfestchecker.jenko.me/) - Check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)].
 - [Hey Linda](https://github.com/heylinda/heylinda-app) - A free forever meditation app built with React Native.
 
 ### SVG
@@ -128,7 +124,6 @@ They also try to be very welcoming for 1st-time contributors.
 - [Amplication](https://www.github.com/amplication/amplication)
 - [Appsmith](https://hacktoberfest.appsmith.com/)
 - [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
-- [Aqua Security](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 - [Circle CI](https://circleci-public.github.io/hacktoberfest/#/)
 - [Coding Blocks](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
 - [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
@@ -148,10 +143,9 @@ They also try to be very welcoming for 1st-time contributors.
 
 ## Misc resources
 
-- [AwesomeSearch](https://awesomelists.top/) - Search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
-- [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
+- [AwesomeSearch](https://awesomelists.top/) - Search engine for [the awesome list](https://awesome.re) providing useful programming resources.
+- [Track Awesome List Updates Daily](https://www.trackawesomelist.com/) - Lists updates of awesme lists.
 - [First Timers Only](https://www.firsttimersonly.com/) - Page highlighting awesome facts on first-time contributions.
-- [Reading List](https://github.com/mattjegan/reading-list)
 
 ## Other awesome lists
 
