@@ -40,10 +40,10 @@ Here, you find possibilities to ease the search.
 - Use [Search Engine Hacktoberfest Project Finder](https://hacktoberfest-projects.vercel.app/) - Offers filtering by language. The best thing is that the projects are initially sorted by GitHub stars.
 - Use [Search Engine Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 - [Search for label `hacktoberfest`](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue) - Label especially created for Hacktoberfest.
-- [Search for label `first-timers-only`](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
-- [Search for label `for-new-contributors`](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
-- [Search for label `good-first-issue`](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
-- [Search for label `easy`](https://github.com/search?q=label%3Aeasy)
+- [Search for label `first-timers-only`](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue) - Issues tailored for first-time contributors.
+- [Search for label `for-new-contributors`](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue) - Ideal for those who are new to open-source contributions.
+- [Search for label `good-first-issue`](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue) - Awesome beginner-friendly issues.
+- [Search for label `easy`](https://github.com/search?q=label%3Aeasy) - Simple issues to start your Hacktoberfest journey.
 
 ## Events
 
