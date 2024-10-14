@@ -59,13 +59,14 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all CSS projects with Hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=CSS))
 
-- [crystal-ann](https://github.com/crystal-community/crystal-ann)
+- [crystal-ann](https://github.com/crystal-community/crystal-ann) - An awesome announcement tool for the Crystal programming language community.
 
 ### Dart / Flutter
 
-([all dart projects with Hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=Dart&l=))
+([all Dart projects with Hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=Dart&l=))
 
-- [The Public Transport](https://github.com/thepublictransport/thepublictransport-app)
+- [The Public Transport](https://github.com/thepublictransport/thepublictransport-app) - An awesome app to provide public transport information, written in Dart and Flutter.
+
 
 ### Go
 
