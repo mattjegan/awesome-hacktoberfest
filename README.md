@@ -67,7 +67,6 @@ They also try to be very welcoming for 1st-time contributors.
 
 - [The Public Transport](https://github.com/thepublictransport/thepublictransport-app) - An awesome app to provide public transport information, written in Dart and Flutter.
 
-
 ### Go
 
 ([all Go projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3Ago&type=Issues&ref=advsearch&l=Go))
