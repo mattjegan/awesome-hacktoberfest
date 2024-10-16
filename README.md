@@ -100,13 +100,13 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all python projects with Hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3APython&type=Issues&ref=advsearch&l=Dart&l=))
 
-- [django-gamification](https://github.com/mattjegan/django-gamification)
-- [howlong](https://github.com/mattjegan/HowLong)
-- [python-ds](https://github.com/prabhupant/python-ds) - Data structures implemented in Python.
-- [quick-net](https://github.com/Zwork101/quick-net)
-- [Ralph](https://github.com/allegro/ralph)
-- [Tipboard](https://github.com/allegro/tipboard)
-- [wtfuzz](https://github.com/mattjegan/wtfuzz)
+- [django-gamification](https://github.com/mattjegan/django-gamification) - Add awesome gamification to your Django applications!
+- [howlong](https://github.com/mattjegan/HowLong) - Measure the time it takes to complete tasks with this awesome Python tool.
+- [python-ds](https://github.com/prabhupant/python-ds) - An awesome collection of data structures implemented in Python.
+- [quick-net](https://github.com/Zwork101/quick-net) - A fast and awesome Python networking library.
+- [Ralph](https://github.com/allegro/ralph) - A lightweight, modular asset management system.
+- [Tipboard](https://github.com/allegro/tipboard) - Create awesome dashboards with ease.
+- [wtfuzz](https://github.com/mattjegan/wtfuzz) - An awesome fuzzer tool to test your web applications.
 
 ### React
 
