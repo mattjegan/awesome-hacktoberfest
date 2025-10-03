@@ -142,10 +142,22 @@ They also try to be very welcoming for 1st-time contributors.
 - [Track Awesome List Updates Daily](https://www.trackawesomelist.com/) - Lists updates of awesome lists.
 - [First Timers Only](https://www.firsttimersonly.com/) - Page highlighting awesome facts on first-time contributions.
 
+
+### JavaScript
+
+([all JavaScript projects with Hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
+
+- [jest-extended](https://github.com/mattphillips/jest-extended)
+- [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab.
+- [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
+- [my-hacktoberfest-js-repo](https://github.com/Falzz1010/my-hacktoberfest-js-repo) - A simple JavaScript repo for Hacktoberfest beginners.
+
+
 ## Other awesome lists
 
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - Lists projects which are beginner-friendly.
 - [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 projects on GitHub.
+
 
 ## Contribute
 
