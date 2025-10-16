@@ -84,9 +84,27 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all JavaScript projects with Hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
 
-- [jest-extended](https://github.com/mattphillips/jest-extended)
-- [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab.
-- [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
+- [jest-extended](https://github.com/mattphillips/jest-extended):  
+  A library extending Jest’s built-in matchers with additional assertions for more expressive and powerful JavaScript tests.
+
+- [letra-extension](https://github.com/jayehernandez/letra-extension):  
+  A Chrome and Firefox browser extension that helps you learn new languages passively — every new tab displays a word with translation and pronunciation.
+
+- [vue-dropzone](https://github.com/rowanwins/vue-dropzone):  
+  A simple and customizable file upload component built for Vue.js using Dropzone.js. Great for adding drag-and-drop file uploads to Vue projects.
+
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code):  
+  A curated collection of short, useful JavaScript code snippets explained in under 30 seconds. Perfect for learning and quick reference.
+
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms):  
+  A collection of popular algorithms and data structures implemented in JavaScript with detailed explanations and examples.
+
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp):  
+  The largest open-source learning platform that helps people learn web development interactively using HTML, CSS, and JavaScript.
+
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript):  
+  A hand-picked list of awesome JavaScript libraries, frameworks, and resources for developers of all levels.
+
 
 ### Java
 
