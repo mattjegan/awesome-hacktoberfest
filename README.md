@@ -9,6 +9,15 @@
 - [Finding issues](#finding-issues)
 - [Events](#events)
 - [Projects friendly to Hacktoberfest 1st time contributors](#projects-friendly-to-hacktoberfest-1st-time-contributors)
+
+### Beginner-Friendly Hacktoberfest Projects
+
+- [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) — A safe and easy repo to learn how to create your first Pull Request.
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) — The most popular repo for beginners to learn open source contribution.
+- [vinitshahdeo/Hacktoberfest2025](https://github.com/vinitshahdeo/Hacktoberfest2025) — Contains curated beginner-level Hacktoberfest issues.
+- [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest) — A collection of awesome repos for Hacktoberfest across different languages.
+- [codeforcauseorg/hacktoberfest-2025](https://github.com/codeforcauseorg/hacktoberfest-2025) — A community repo that supports first-time contributors with beginner issues.
+
   - [CSS](#css)
   - [Dart / Flutter](#dart--flutter)
   - [Go](#go)
