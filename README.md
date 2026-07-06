@@ -80,6 +80,8 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all HTML projects with Hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=HTML))
 
+- [FirstCommit](https://github.com/Ayushmore1214/FirstCommit) - A beginner-friendly open source learning lab with a DevOps glossary, built to help newcomers make their first real open source contribution.
+
 ### JavaScript
 
 ([all JavaScript projects with Hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
