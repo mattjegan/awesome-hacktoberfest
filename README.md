@@ -129,6 +129,7 @@ They also try to be very welcoming for 1st-time contributors.
 ## Companies participating in Hacktoberfest
 
 - [Grafana Labs](https://github.com/grafana/grafana)
+- [Openapi](https://github.com/search?q=org%3Aopenapi+label%3Ahacktoberfest+is%3Aopen&type=issues)
 - [WildFly](https://www.wildfly.org/news/2024/09/23/Hacktoberfest-2024/)
 
 ## Nonprofits participating in Hacktoberfest
